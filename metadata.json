@@ -1,0 +1,6 @@
+{
+  "name": "Maze Treasure Hunter",
+  "description": "A mobile-styled maze navigation game with dynamic maze generation, increasing difficulty levels, power-ups, and a virtual D-pad for mobile-friendly play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
